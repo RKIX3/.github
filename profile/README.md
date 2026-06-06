@@ -1,12 +1,88 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://your-domain/banner.png" width="100%">
+</p> 
+<div align="center">
 
-<!--
+# RKIX3
 
-**Here are some ideas to get you started:**
+### Building Modern AI, Web & Developer Tools
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Website](https://rkix.com) • [Documentation](https://docs.rkix.com) • [GitHub](https://github.com/RKIX3)
+
+</div>
+
+---
+
+## 🚀 About RKIX
+
+RKIX is a technology organization focused on:
+
+- AI Agents
+- Web Applications
+- Developer Tools
+- Cloud Infrastructure
+- Open Source Projects
+
+Our mission is to create powerful and accessible software for developers and businesses.
+
+---
+
+## 🛠 Core Projects
+
+| Project | Description |
+|----------|-------------|
+| RKIX Web | Main platform |
+| RKIX AI | AI assistant ecosystem |
+| RKIX Cloud | Hosting & deployment |
+| RKIX Studio | Development workspace |
+
+---
+
+## 🌟 Features
+
+- Modern Architecture
+- Mobile First Design
+- AI Integration
+- Cloud Native
+- Open Source Friendly
+
+---
+
+## 📊 Organization Stats
+
+```txt
+AI Development
+Web Applications
+Cloud Services
+Open Source
+Developer Experience
+```
+
+---
+
+## 🤝 Community
+
+We welcome:
+
+- Developers
+- Designers
+- Contributors
+- Open Source Enthusiasts
+
+---
+
+## 📫 Contact
+
+Website: https://rkix.com
+
+GitHub: https://github.com/RKIX3
+
+Email: admin@huynhthuong.online
+
+---
+
+<div align="center">
+
+Made with ❤️ by RKIX3
+
+</div>
